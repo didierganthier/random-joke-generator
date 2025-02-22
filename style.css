@@ -1,0 +1,20 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+button {
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background-color: #008cba;
+    color: white;
+    border-radius: 5px;
+}
+
+#joke {
+    margin-top: 20px;
+    font-size: 18px;
+}
